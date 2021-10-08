@@ -2,7 +2,7 @@
 
 ## Details
 
-### Game Title
+Overwatch
 
 The game is called Overwatch and can be purchased on Battlenet, playstation, and xbox
 
