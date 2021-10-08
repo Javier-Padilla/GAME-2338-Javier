@@ -4,7 +4,7 @@
 
 Overwatch
 
-The game is called Overwatch and can be purchased on Battlenet, playstation, and xbox
+The game is called Overwatch and can be purchased on Battlenet, Playstation, Xbox, and Nintendo Switch
 
 ### Rating
 
